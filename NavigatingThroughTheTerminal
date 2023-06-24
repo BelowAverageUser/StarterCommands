@@ -8,14 +8,10 @@
 <h2>👨‍💻 Why these commands?</h2>
 
 - <b>Fundamentals Linux Server</b>
-  - [Practicing most used Linux commands].
-  - [Learn the Linux file system].
-  - [User management]<b><i> (adduser, del user, etc).</b></i>
-  - [Files and directory permissions, File ownership, File maintenance]<b><i> (rwx,ugo, -rwxrwxrwx).</b></i>
-  - [Learn standard Filters/text processor commands]<b><i> (cut, awk, grep and egrep, sort and uniq).</b></i>.
-  - [Troubleshooting practice].
-  - [(Automatic) Backups]<b><i> (rsync, cron(daily/weekly/monhtly).</b></i>
-  - [Read about Linux Server best practices].
+  - [Example text].
+  - [Example text].
+  - [Example text]<b><i> (Example text).</b></i>
+  - [Example text]<b><i> (Example text).</b></i>
 
 <h2>👨‍💻 Examples?</h2>
 
