@@ -1,0 +1,34 @@
+<h1>Starter Commands Ubuntu Server</h1>
+
+🙋‍♂️ Here you find the commands that I think for now are the most important when you are starting off in your first Ubuntu Server. These will help you discover the Linux File system and directory's.
+
+<h2>📝 The starter commands</h2>
+
+
+<h2>👨‍💻 Why these commands?</h2>
+
+- <b>Fundamentals Linux Server</b>
+  - [Practicing most used Linux commands].
+  - [Learn the Linux file system].
+  - [User management]<b><i> (adduser, del user, etc).</b></i>
+  - [Files and directory permissions, File ownership, File maintenance]<b><i> (rwx,ugo, -rwxrwxrwx).</b></i>
+  - [Learn standard Filters/text processor commands]<b><i> (cut, awk, grep and egrep, sort and uniq).</b></i>.
+  - [Troubleshooting practice].
+  - [(Automatic) Backups]<b><i> (rsync, cron(daily/weekly/monhtly).</b></i>
+  - [Read about Linux Server best practices].
+
+<h2>👨‍💻 Examples?</h2>
+
+- <b>Example 1</b>
+  - [Querying data].
+- <b>Example 2</b>
+  - [Querying data].
+- <b>Example 3</b>
+  - [Querying data].
+
+<h2>🏢 Last few insights</h2>
+
+- <b>Example text</b>
+  - [Example text]
+  - [Example text]
+    - <b>Example text</b>
